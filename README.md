@@ -1,9 +1,9 @@
-![fc00fe06-e6c2-4dc9-8a2f-7bde47a3de79](https://github.com/user-attachments/assets/1b6406ab-4109-4c7d-bf0a-a067ba36281f)
-![683be1c1-c704-44b8-8e6a-a723d3eb11b9](https://github.com/user-attachments/assets/5f40313f-dee3-43fc-81e9-4c86a9ae9293)
-![c356008a-6279-454e-94cc-6506f4808799](https://github.com/user-attachments/assets/c220b1a0-f053-4a00-99c0-16600051068e)
-![adb62245-a733-4583-a201-f61f8a0423fb](https://github.com/user-attachments/assets/d745043a-0d12-4927-865f-ea5f9a800f11)
-![718a91b3-b6d6-4725-9594-e9240c4c4084](https://github.com/user-attachments/assets/d979a074-8b24-4212-9853-2f2904590699)
-![80b63f8c-20c4-4251-8133-9c30fa4919c9](https://github.com/user-attachments/assets/2e97ea87-97ac-436f-8f97-8b61cc53459c)
-![6deada5f-d202-46b0-85a6-8334411293de](https://github.com/user-attachments/assets/11018f7b-ad8c-4552-a0e8-3d0aff039c75)
-![b244a195-d05a-4aef-8d5a-09ea9272ed36](https://github.com/user-attachments/assets/49fa8f3e-91ac-44fb-9924-3a261df8683e)
-![87ec0cb8-b239-4415-90e3-7ee4218d1924](https://github.com/user-attachments/assets/ec1a46a4-1968-4f95-9094-7e0070d4e21e) Register Screen
+![fc00fe06-e6c2-4dc9-8a2f-7bde47a3de79](https://github.com/user-attachments/assets/1b6406ab-4109-4c7d-bf0a-a067ba36281f) Language Settings
+![683be1c1-c704-44b8-8e6a-a723d3eb11b9](https://github.com/user-attachments/assets/5f40313f-dee3-43fc-81e9-4c86a9ae9293) Settings 
+![c356008a-6279-454e-94cc-6506f4808799](https://github.com/user-attachments/assets/c220b1a0-f053-4a00-99c0-16600051068e) Fotification Recieving
+![adb62245-a733-4583-a201-f61f8a0423fb](https://github.com/user-attachments/assets/d745043a-0d12-4927-865f-ea5f9a800f11) Notification Tuner
+![718a91b3-b6d6-4725-9594-e9240c4c4084](https://github.com/user-attachments/assets/d979a074-8b24-4212-9853-2f2904590699) Bird Sightings
+![80b63f8c-20c4-4251-8133-9c30fa4919c9](https://github.com/user-attachments/assets/2e97ea87-97ac-436f-8f97-8b61cc53459c) Local Nearby Sightings
+![6deada5f-d202-46b0-85a6-8334411293de](https://github.com/user-attachments/assets/11018f7b-ad8c-4552-a0e8-3d0aff039c75) Map Path Finder Screen
+![b244a195-d05a-4aef-8d5a-09ea9272ed36](https://github.com/user-attachments/assets/49fa8f3e-91ac-44fb-9924-3a261df8683e) Birding Hotspots Screen
+![87ec0cb8-b239-4415-90e3-7ee4218d1924](https://github.com/user-attachments/assets/ec1a46a4-1968-4f95-9094-7e0070d4e21e) Login Screen
