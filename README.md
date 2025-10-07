@@ -6,4 +6,4 @@
 ![80b63f8c-20c4-4251-8133-9c30fa4919c9](https://github.com/user-attachments/assets/2e97ea87-97ac-436f-8f97-8b61cc53459c)
 ![6deada5f-d202-46b0-85a6-8334411293de](https://github.com/user-attachments/assets/11018f7b-ad8c-4552-a0e8-3d0aff039c75)
 ![b244a195-d05a-4aef-8d5a-09ea9272ed36](https://github.com/user-attachments/assets/49fa8f3e-91ac-44fb-9924-3a261df8683e)
-![87ec0cb8-b239-4415-90e3-7ee4218d1924](https://github.com/user-attachments/assets/ec1a46a4-1968-4f95-9094-7e0070d4e21e)
+![87ec0cb8-b239-4415-90e3-7ee4218d1924](https://github.com/user-attachments/assets/ec1a46a4-1968-4f95-9094-7e0070d4e21e) Register Screen
